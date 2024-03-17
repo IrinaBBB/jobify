@@ -2110,7 +2110,7 @@ import {
   createJob,
   updateJob,
   deleteJob,
-} from '../controllers/jobController.js';
+} from '../controllers/jobController.js.js';
 
 // router.get('/', getAllJobs);
 // router.post('/', createJob);
